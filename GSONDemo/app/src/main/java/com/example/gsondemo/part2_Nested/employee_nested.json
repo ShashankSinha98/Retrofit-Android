@@ -1,0 +1,9 @@
+{
+  "address": {
+    "city": "Delhi",
+    "country": "India"
+  },
+  "age": 20,
+  "email": "shashank@gmail.com",
+  "firstname": "Shashank"
+}

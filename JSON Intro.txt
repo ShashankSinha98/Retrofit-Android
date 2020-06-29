@@ -1,0 +1,12 @@
+ 1. JSON - JavaScript Object notation
+         - Language Independent Format (all programming lang know hot to handle it)
+         - Text based, light weight data interchange format (btm app and server in our case) (XML is also used to 	               interchange data, but it's not light weight)
+         - Easy to read and write
+         - Easy for machines to generate and parse it
+
+
+
+  JSON Architecture- 1.  JSON obj start with '{' and end with '}'
+ 		     2. Contains unordered list of Key-value pairs
+		     3. value can be- number, string, JSON obj, JSON array, true, false, null.
+		     4. JSON array - []   

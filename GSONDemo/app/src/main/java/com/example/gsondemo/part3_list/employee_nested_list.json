@@ -1,0 +1,19 @@
+{
+  "address": {
+    "city": "Delhi",
+    "country": "India"
+  },
+  "age": 20,
+  "email": "shashank@gmail.com",
+  "family": [
+    {
+      "age": 30,
+      "role": "Wife"
+    },
+    {
+      "age": 10,
+      "role": "Son"
+    }
+  ],
+  "firstname": "Shashank"
+}
